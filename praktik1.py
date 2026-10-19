@@ -1,4 +1,4 @@
-nim = 262410
+nim = 26241065
 
 teks = str(nim)
 
